@@ -1,7 +1,6 @@
 ## Hi, there! I'm Allan 👋
 
 - 🎓 Graduated in **Information Systems** on <a href="http://www.univas.edu.br/">UNIVÁS</a>
-- 🔭 I’m currently working on <a href="https://web.faci.ly/">Facily</a>
 - 🌱 I’m currently learning Typescript, Golang, Flutter...
 - 😄 Pronouns: He/His/Him
 
